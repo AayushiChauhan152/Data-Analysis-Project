@@ -43,4 +43,18 @@ It is mainly divided into four parts:-
   
 ![positivelinear](https://user-images.githubusercontent.com/96294707/170836812-dea3c69c-acaf-436a-9df5-60f5ee2748d2.png)
 
+  - Linear Regression plot
+  
+![Figure_2](https://user-images.githubusercontent.com/96294707/170836972-7e905bbc-50cf-4536-bcf8-d6b8d08a8d98.png)
+
+  - Multiple Regression plot
  
+ ![Figure_1](https://user-images.githubusercontent.com/96294707/170837002-438bdef7-829a-4ddb-8bf4-f55ea4826917.png)
+
+
+
+ # Conclusion
+ 
+ The distribution plot of Linear Regression and Multiple Regression technique shows how the model predicts the prices of automobiles based on "horsepower", "curb-weight", "engine-size" and "highway-mpg"
+
+Comparing these three models, we conclude that the MLR model is the best model to be able to predict price from our dataset.
