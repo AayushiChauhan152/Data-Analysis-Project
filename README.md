@@ -17,8 +17,8 @@ It is mainly divided into four parts:-
 - Seaborn
 
 # Importing Modules
-  import pandas as pd
-  import numpy as np
-  import math
-  import matplotlib.pyplot as plt
-  import seaborn as sns
+ - import pandas as pd
+ - import numpy as np
+ - import math
+ - import matplotlib.pyplot as plt
+ - import seaborn as sns
