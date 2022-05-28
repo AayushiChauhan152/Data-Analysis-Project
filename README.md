@@ -25,3 +25,8 @@ It is mainly divided into four parts:-
  - import math
  - import matplotlib.pyplot as plt
  - import seaborn as sns
+ 
+ Analysis
+Histograms representing Binned prices in Low, Medium, High 
+
+![histograms](https://user-images.githubusercontent.com/96294707/170836603-1148b008-9d65-4d9d-b3c6-5beb619781dd.png)
