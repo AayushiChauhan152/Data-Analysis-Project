@@ -26,7 +26,10 @@ It is mainly divided into four parts:-
  - import matplotlib.pyplot as plt
  - import seaborn as sns
  
- Analysis
-Histograms representing Binned prices in Low, Medium, High 
+ # Analysis
+  - Histograms representing Binned prices in Low, Medium, High.
 
 ![histograms](https://user-images.githubusercontent.com/96294707/170836603-1148b008-9d65-4d9d-b3c6-5beb619781dd.png)
+
+  - Boxplots representing effect of wheel frive with prices.
+ ![boxplots](https://user-images.githubusercontent.com/96294707/170836677-39107ad9-2be8-4e5f-a547-8a5d6fe4f4a6.png)
