@@ -3,11 +3,11 @@ In this project I'm trying to analyze the used car prices from dataset available
 It is mainly divided into four parts:-
 - Data Wrangling
 
--Exploratory
+- Exploratory
 
--Model Development
+- Model Development
 
--Model Review and Evaluation
+- Model Review and Evaluation
 
 # Softwares and Libraries Used:
 
